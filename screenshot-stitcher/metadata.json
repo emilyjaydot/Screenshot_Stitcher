@@ -1,0 +1,6 @@
+{
+  "name": "Screenshot Stitcher",
+  "description": "An application to vertically stitch multiple screenshots of a webpage into a single, continuous image.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
